@@ -1,0 +1,17 @@
+# Hashgraph DAO Working Group
+
+## Tools
+
+### IntelliJ IDEA
+.idea
+*.iws
+*.iml
+*.ipr
+/out/
+
+
+## Tech
+
+### Technologies
+.vscode
+__pycache__
