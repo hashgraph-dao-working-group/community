@@ -2,6 +2,12 @@
 
 ## Tools
 
+### Obsidian ###
+.obsidian/
+
+### VSCode ###
+.vscode
+
 ### IntelliJ IDEA
 .idea
 *.iws
@@ -12,6 +18,5 @@
 
 ## Tech
 
-### Technologies
-.vscode
+### Python ###
 __pycache__
