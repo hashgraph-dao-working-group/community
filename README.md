@@ -19,6 +19,25 @@ Is to help the DAO ecosystem on Hedera thrive through the generation of infrastr
 
 The Hedera DAO Working Group was founded from the following list of individuals:
 
+-   Cooper Kunz - Calaxy
+-   Jason Fabritz - Calaxy
+-   Nate Western - PieFi & TheUpsideDAO
+-   Tyler Morrey - PieFi & TheUpsideDAO
+-   Elisabeth Chase - HelloFutureDAO
+-   Patches - Turtle Moon
+-   May Chan - Hashpack
+-   Donald Thibeau - Immutable Holdings
+-   Matt Smithies - DOVU
+-   Ian Holsman - Swirlds Labs
+-   Ed Marquez - Swirlds Labs
+-   Roland Ringgenberg - RRTech
+-   Ipex - Ipex Immortals
+-   Brandon Davenport - Doerksen & Davenport Inc.
+-   Tudor Holotescu - HeadStarter
+-   Ashe Oro - Swirlds Labs
+-   Elaine Song - The HBAR Foundation
+-   Peter Campbell - SaucerSwap
+
 ## How to get involved
 
 In order to keep the discussions focused, membership in the Hedera DAO Working Group is limited to participants who are actively involved in or building DAO’s on Hedera. Entry into the weekly meetings can be done by filling out a membership form and having the application reviewed by the existing members.
