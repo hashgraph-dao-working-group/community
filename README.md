@@ -44,7 +44,7 @@ In order to keep the discussions focused, membership in the Hedera DAO Working G
 
 Our workgroup is open to anyone who wants to contribute meaningfully to the development of DAO’s and DAO tooling on the Hedera network
 
-Fill out our Surv
+[Fill out our Survey and join!](https://docs.google.com/forms/d/e/1FAIpQLSdjRjpARb555UOB85rH3UEoggI7oRzGkuz4BmGYUKYC9BvNCQ/viewform)
 
 
 # Governance
